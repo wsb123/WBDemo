@@ -1,0 +1,22 @@
+{
+  "name": "TRUNetWorking",
+  "version": "0.1.0",
+  "summary": "A short description of TRUNetWorking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WeJeson/TRUNetWorking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WeJeson": "15755061719@163.com"
+  },
+  "source": {
+    "git": "https://github.com/WeJeson/TRUNetWorking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TRUNetWorking/Classes/**/*"
+}
